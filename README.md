@@ -56,7 +56,7 @@ Sigue estos pasos para ejecutar el proyecto en tu máquina local:
    npm start
    ```
 
-4. Abre tu navegador web y dirígete a `http://localhost:3000` para jugar al juego.
+4. Abre tu navegador web y dirígete a ```http://localhost:3000``` para jugar al juego.
 
 ## Funciones del Juego
 
