@@ -1,7 +1,5 @@
 # Slot Machine Game
 
-![Slot Machine Game](https://your-image-link-here) <!-- Puedes añadir un enlace a una imagen del juego si tienes una -->
-
 ## Descripción
 
 Este es un simple juego de máquina tragamonedas desarrollado con HTML, CSS, JavaScript y Node.js. El proyecto simula el comportamiento de una máquina tragamonedas real con animaciones y efectos visuales.
@@ -41,22 +39,22 @@ Sigue estos pasos para ejecutar el proyecto en tu máquina local:
 
 1. Clona el repositorio:
 
-   \`\`\`sh
+   ```sh
    git clone https://github.com/tu-usuario/slot-machine-game.git
    cd slot-machine-game
-   \`\`\`
+   ```
 
 2. Instala las dependencias:
 
-   \`\`\`sh
+   ```sh
    npm install
-   \`\`\`
+   ```
 
 3. Inicia el servidor:
 
-   \`\`\`sh
+   ```sh
    npm start
-   \`\`\`
+   ```
 
 4. Abre tu navegador web y dirígete a `http://localhost:3000` para jugar al juego.
 
